@@ -36,7 +36,10 @@ assert person.name !== home.parent_name
 
 这个时候就需要把 name 给同步过去
 
+## todo
+
+- [ ] 同步日志
+- [ ] 定时同步
+- [ ] 实时同步
 - [ ] 适配 MySQL
 - [ ] 适配 PostgreSQL
-      ~~适配 mongodb~~
-- [ ] 定时同步(cron)
